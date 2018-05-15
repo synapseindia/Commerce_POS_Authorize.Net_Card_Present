@@ -1,0 +1,13 @@
+name = Commerce POS Authorize.Net Card Present
+description = Athorized.net Payment Getaway support.
+core = 7.x
+package = Commerce POS
+dependencies[] = commerce_pos
+dependencies[] = commerce_authnet_card_present
+
+; Information added by Drupal.org packaging script on 2018-03-13
+version = "7.x-1.x-dev"
+core = "7.x"
+project = "commerce_pos_authorize_dot_net_card_present"
+datestamp = "1520922787"
+
